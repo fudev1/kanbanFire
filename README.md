@@ -1,4 +1,4 @@
-#### **<font color = "tan">0. Introduction du projet :</font>
+#### **<font color = "tan">0. Introduction du projet :</font>**
 ---
 
 Je vais créer un tableau kanban Web avec Angular et Firebase. L'appli finale comportera trois catégories de tâches : **en attente**, **en cours** et **terminées**. Je pourrais **créer**, **supprimer** et **transférer** des tâches d'une catégorie à une autre par glisser-déposer.
